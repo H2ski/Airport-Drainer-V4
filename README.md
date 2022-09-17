@@ -5,9 +5,9 @@
 ## `📸 Divers :`
 - Copyright symbole : ® / ™ / © 
 
-## `🗑️ Drainer V3 by H2ski`
+## `🗑️ Drainer V4 by H2ski`
 
-- To get instant support, contact me on Telegram **(https://t.me/H2ski)**
+- To get The V4 Drainer, contact me on Telegram **(https://t.me/H2ski)**
 
 -------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@
 - [x] No contract required
 - [x] Anti Metamask Phishing Detections
 - [x] Anti F12 Inspect
-- [x] NO BACKDOOR
+- [x] No Fcking BACKDOOR
 
 
 ## `✏️ Setup Guide :` 
